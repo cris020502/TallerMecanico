@@ -1,0 +1,37 @@
+
+Rol: desarrollador senior fullstack
+
+Tarea: realizar la primera fase de un proyecto, cuyo objetivo es identidad, usuario, roles.
+la principal tarea es encargarte de los siguientes puntos
+ 
+-roles
+-usuarios
+-registro usuarios
+-sesiones
+-autenticación
+-autorización
+-recuperación 
+
+Para el frontend usa específicamente :
+-TypeScript
+-Vue
+-Vite
+Para el backend usa FastApi y typescript con Axios, usa el hashinG Argon2 para las contraseñas
+
+adicionalmente:  
+considera el aplicativo Como SPA y renderiza de forma adecuada los componentes desarrollados. 
+considera usar vuetify en su versión 3.
+Valida los campos tanto en el Backend como en el Frontend.
+
+Contexto: un taller mecanico requiere un sistema que permita registrar, controlar y consultar  el ciclo de vida de las ordenes de reparaciones. los clientes podrán conocer el estado de su vehiculo sin llamar al taller. El sistema debe integrar clientes, vehículos, 
+ordenes de reparación, diagnósticos, autorizaciones, refacciones, inventario, notificaciones, historial y auditoria.
+Salida: prepara el login para los actores del sistema:
+administrador del taller
+recepcionista
+asesor de vehículos
+técnico de consulta
+Cliente 
+sistema
+
+
+  
